@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="people">
+
+        <item>Mario Speedwagon</item>
+       <item>Petey Cruiser</item>
+        <item>Anna Sthesia</item>
+        <item>Paul Molive</item>
+        <item>Anna Mull</item>
+        <item>Gail Forcewind</item>
+        <item> Paige Turner</item>
+        <item>Bob Frapples</item>
+        <item>Walter Melon</item>
+        <item>Nick R. Bocker</item>
+    </string-array>
+
+
+    <integer-array name="images">
+        <item>@drawable/photo_female_1</item>
+        <item>@drawable/photo_female_2</item>
+        <item>@drawable/photo_female_3</item>
+        <item>@drawable/photo_male_1</item>
+        <item>@drawable/photo_female_4</item>
+        <item>@drawable/photo_male_2</item>
+        <item>@drawable/photo_female_5</item>
+        <item>@drawable/photo_male_3</item>
+        <item>@drawable/photo_male_4</item>
+        <item>@drawable/photo_male_5</item>
+    </integer-array>
+</resources>
